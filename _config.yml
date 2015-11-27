@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Derby Makers Blog
 tagline:             ''
 description:         "A devoted group of hackers and makers in the world's first factory; Derby Silk Mill."
-url:                 http://derbymakers.github.io
+url:                 http://derbymakers.github.io/blog
 baseurl:             'http://derbymakers.github.io/blog'
 paginate:            5
 
