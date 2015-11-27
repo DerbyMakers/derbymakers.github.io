@@ -9,7 +9,7 @@ title:               Derby Makers Blog
 tagline:             ''
 description:         "A devoted group of hackers and makers in the world's first factory; Derby Silk Mill."
 url:                 http://derbymakers.github.io
-baseurl:             'http://derbymakers.github.io/blog'
+baseurl:             'http://derbymakers.github.io'
 paginate:            5
 
 # About/contact
