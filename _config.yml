@@ -1,16 +1,15 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+permalink:           /blog/:year/:month/:day/:title/
 
 # Setup
-title:               Derby Makers Blog
+title:               Derby Makers Website
 tagline:             ''
 description:         "A devoted group of hackers and makers in the world's first factory; Derby Silk Mill."
 url:                 http://derbymakers.github.io
-baseurl:             'http://derbymakers.github.io'
+baseurl:             ''
 paginate:            5
+paginate_path: blog/page:num/
 
 # About/contact
 author:
